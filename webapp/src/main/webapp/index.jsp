@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps Learning [By Engineer Marion M. De Guzman, ECE, CCNA, RHCSA, AWS SAA, CEO of RYDT]</h1>
+    <h1>New user Register for DevOps Learning [By Engineer Marion M. De Guzman, ECE, CCNA, RHCSA, AWS SAA, i~CEO of RYDT]</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
